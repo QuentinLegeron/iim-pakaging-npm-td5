@@ -1,0 +1,23 @@
+{
+  "name": "qlegeron-iim-pakaging-npm-td5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuentinLegeron/iim-pakaging-npm-td5.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuentinLegeron/iim-pakaging-npm-td5/issues"
+  },
+  "homepage": "https://github.com/QuentinLegeron/iim-pakaging-npm-td5#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  }
+}
