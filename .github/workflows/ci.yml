@@ -36,4 +36,4 @@ jobs:
       - name: "Publish to NPM"
         uses: JS-DevTools/npm-publish@v2
         with:
-          token: ${{ secrets.NPM_TOKEN }}
+          token: ${{ secrets.NPM_TOKEN_IIM_TD5 }}
